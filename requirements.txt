@@ -1,0 +1,2 @@
+requests==2.26.0
+free-proxy==1.0.5
