@@ -32,4 +32,4 @@ else:
         level=log_level
     )
 
-# sys.stdout.write = logging.info
+sys.stdout.write = logging.info
